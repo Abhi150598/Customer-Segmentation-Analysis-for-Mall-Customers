@@ -1,0 +1,6 @@
+1. pandas
+2. seaborn
+3. matplotlib
+4. PCA
+5. Kmeans
+6. StandardScaler
